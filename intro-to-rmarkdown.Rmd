@@ -1,0 +1,38 @@
+---
+title: "Intro to RMarkdown"
+author: "NDiogou"
+date: "2023-02-27"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+We used acoustic recordings to identify *bowhead whale* presence in the Eastern **Beaufort Sea**.
+
+This is *italic* This is **bold**
+
+This is a very interesting fact [@oke2020}.
+
+| Col1   | Col2 | Col3 |
+|--------|------|------|
+| Item 1 |      |      |
+| Item 2 |      |      |
+|        |      |      |
+
+
+```{r}
+x= 4*3
+
+```
+
+```{r}
+a= 4500-1135-500-300
+leftrent=100-a
+
+```
+
+
